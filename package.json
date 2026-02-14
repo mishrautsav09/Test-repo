@@ -1,0 +1,25 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "this is a test repository",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishrautsav09/Test-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mishrautsav09/Test-repo/issues"
+  },
+  "homepage": "https://github.com/mishrautsav09/Test-repo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.2.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
